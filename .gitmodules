@@ -1,0 +1,6 @@
+[submodule "cookbooks/trac"]
+	path = cookbooks/trac
+	url = git@github.com:opscode-cookbooks/trac
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
+	url = git@github.com:opscode-cookbooks/yum
